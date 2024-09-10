@@ -19,21 +19,30 @@ jobTypes:
 
 date:
   all time: false
-  month: true
+  month: false
   week: false
   24 hours: true
 
 positions:
   - Software Tester
+  - Junior Developer
+  - Junior Software Engineer
+  - Junior Data Analyst
+  - Data Entry
+  - Entry Level Data Entry
 
 
 locations:
-  - USA
+  - Raleigh,NC
 
-distance: 100
+
+distance: 50
 
 companyBlacklist:
   - Noir
   - Crossover
+  - Digital Janet
+  - Assa Abloy
+  - Amarr
 
 titleBlacklist:

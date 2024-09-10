@@ -1,119 +1,117 @@
 personal_information:
-  name: "[Your Name]"
-  surname: "[Your Surname]"
-  date_of_birth: "[Your Date of Birth]"
-  country: "[Your Country]"
-  city: "[Your City]"
-  address: "[Your Address]"
-  phone_prefix: "[Your Phone Prefix]"
-  phone: "[Your Phone Number]"
-  email: "[Your Email Address]"
-  github: "[Your GitHub Profile URL]"
-  linkedin: "[Your LinkedIn Profile URL]"
+  name: "Anthony"
+  surname: "Buran"
+  date_of_birth: "09/17/1994"
+  country: "United States of America"
+  city: "Raleigh, North Carolina"
+  address: "3501 Folly Field Dr"
+  phone_prefix: "+1"
+  phone: "3176967312"
+  email: "axb1616@gmail.com"
+  github:
+  linkedin: "https://www.linkedin.com/in/anthony-buran-636863264/"
 
 education_details:
-  - education_level: "[Your Education Level]"
-    institution: "[Your Institution]"
-    field_of_study: "[Your Field of Study]"
-    final_evaluation_grade: "[Your Final Evaluation Grade]"
-    start_date: "[Start Date]"
-    year_of_completion: "[Year of Completion]"
+  - education_level: "Bachelors Degree"
+    university: "Valencia College"
+    degree: "Software Development"
+    field_of_study: "Computer Science"
+    gpa: "3.5"
+    final_evaluation_grade: ""
+    start_date: "08/2023"
+    graduation_year: "2025"
     exam:
-      exam_name_1: "[Grade]"
-      exam_name_2: "[Grade]"
-      exam_name_3: "[Grade]"
-      exam_name_4: "[Grade]"
-      exam_name_5: "[Grade]"
-      exam_name_6: "[Grade]"
+
+
+
 
 experience_details:
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: "Office Lead"
+    company: "Amarr"
+    employment_period: "2022-Present"
+    location: "Raleigh, NC"
+    industry:
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
+      - responsibility_1: "Directed efforts to select optimal solutions, including assessing product options and making recommendations based on project needs"
+      - responsibility_2: "Spearheaded efforts that contributed to monthly sales exceeding $1 Million worth in sales monthly, while achieving exceptional customer service."
+      - responsibility_3: "Supervised staff to ensure efficient operations and timely delivery of products"
+      - responsibility_4: "Developed delivery schedules to optimize logistics and meet customer expectations"
+      - responsibility_5: "Leveraged programs like Excel, to provide insights on inventory management."
+      - responsibility_5: "Managed the invoicing process to ensure on time payments while ensuring security with customer information."
     skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - "Project Management"
+      - "Consultancy"
+      - "Management"
 
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: "Community Support"
+    company: "Talisman Wallet"
+    employment_period: "2021-2024"
+    location: "Remote"
+    industry: "Blockchain"
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
+      - responsibility_1: "Led successful onboarding of 1,000+ users for Talisman Wallet, managing and supporting a large user base."
+      - responsibility_2: "Managed application errors and identified solutions through troubleshooting, enhancing user experience and successfully meeting Key Performance Indicators (KPI’s)"
+      - responsibility_3: "Delivered technical solutions to Talisman Wallet users, effectively identifying, and resolving web-socket, browser, and other personal use issues to ensure a seamless user experience."
+      - responsibility_4: "Demonstrated proficiency in managing multiple systems and programs simultaneously, while quickly adapting to new features and technologies on-demand"
+      - responsibility_5: "Actively assisted with open-source work and created technical documentation to support the community."
     skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - "Project Management"
+      - "Technical Support"
+      - "Blockchain"
+      - "Community Management"
 
 projects:
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
+  - name: "Currency Conversion Android Application"
+    description: "Developed a user-friendly currency conversion app for Android utilizing Android Studio"
+    link:
 
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
+  - name: "NFL Roster Webpage"
+    description: "Developed a webpage in Java utilizing Spring Boot backend features JDBC, Spring Web  "
+    link:
 
 achievements:
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
 
 certifications:
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
 
 languages:
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
+  - language: "English"
+    proficiency: "Native"
+
 
 interests:
-  - "[Interest]"
-  - "[Interest]"
-  - "[Interest]"
+  - "Blockchain"
+  - "Software Development"
+  - "Project Management"
+  - "Semi-Conductors"
+  - "Technology"
 
 availability:
-  notice_period: "[Notice Period]"
+  notice_period: "2 Weeks"
 
 salary_expectations:
-  salary_range_usd: "[Salary Range]"
+  salary_range_usd: "50,000"
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
+  gender: "Male"
+  pronouns:
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Two or more races"
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "No"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "yes"
